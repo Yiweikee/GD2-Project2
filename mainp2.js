@@ -1,4 +1,4 @@
-//Make the DIV element draggagle:
+
 dragElement(document.getElementById("mydiv1"));
 dragElement(document.getElementById("mydiv2"));
 dragElement(document.getElementById("mydiv3"));
